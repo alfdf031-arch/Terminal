@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "repository": "alfdf031-arch/Terminal",
+  "packages": [
+    {
+      "name": "theme",
+      "version": "1.0.0",
+      "type": "system",
+      "manifest": "packages/theme/manifest.json",
+      "description": {
+        "ar": "مدير وتخصيص مظهر WebKernel Terminal",
+        "en": "WebKernel Terminal theme manager"
+      }
+    }
+  ]
+}
