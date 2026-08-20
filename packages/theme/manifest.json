@@ -1,0 +1,33 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "type": "system",
+  "entry": "package.js",
+
+  "description": {
+    "ar": "تغيير وتخصيص مظهر WebKernel Terminal",
+    "en": "Customize WebKernel Terminal appearance"
+  },
+
+  "author": "alfdf031-arch",
+
+  "permissions": [
+    "terminal.theme"
+  ],
+
+  "themes": [
+    "dark",
+    "light",
+    "matrix"
+  ],
+
+  "commands": [
+    "theme use",
+    "theme list",
+    "theme reset"
+  ],
+
+  "compatibility": {
+    "terminal": ">=1.0.0"
+  }
+}
