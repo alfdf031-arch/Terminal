@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "channel": "stable",
+  "releaseDate": "2026-08-20",
+  "minimumTerminalVersion": "1.0.0",
+  "changes": {
+    "ar": [
+      "الإصدار الأول",
+      "دعم نظام Packages",
+      "دعم WAIL",
+      "دعم WAT و WASM"
+    ],
+    "en": [
+      "Initial release",
+      "Package system",
+      "WAIL support",
+      "WAT and WASM support"
+    ]
+  }
+}
